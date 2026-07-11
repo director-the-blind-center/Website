@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4240532eb43336a",
+        "id": "71fb4166cc828c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ad4d3325b409a2b2",
+            "id": "c9b02fb52a70d013",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 420.5
   },
   "right": {
     "id": "4bcb9abafe391147",
@@ -178,7 +178,19 @@
   },
   "active": "4cd994241f2964d0",
   "lastOpenFiles": [
-    "about-check.png",
-    "about.html"
+    "blind-center-existing-site-analysis.md",
+    "404.html",
+    "member.html",
+    "search.html",
+    "transparency.html",
+    "accessibility.html",
+    "professionals.html",
+    "friends.html",
+    "community.html",
+    "eyewear.html",
+    "services.html",
+    "the-blind-center-github-pages-codex-master.md",
+    "history.md",
+    "about-check.png"
   ]
 }
